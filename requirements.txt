@@ -1,0 +1,8 @@
+mcp
+docx2pdf
+pdf2docx
+pillow
+pandas
+pdfkit
+markdown
+mcp-proxy
